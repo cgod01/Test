@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="RMIProject"
+  id="myeclipse.1473078999780"
+  context-root="/RMIProject"
+  j2ee-spec="6.0"
+  archive="RMIProject.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
